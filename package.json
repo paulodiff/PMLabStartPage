@@ -43,5 +43,8 @@
         "single"
       ]
     }
+  },
+  "dependencies": {
+    "jit-grunt": "^0.9.1"
   }
 }

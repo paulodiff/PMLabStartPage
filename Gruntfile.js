@@ -2,6 +2,9 @@
 // generator-webapp 1.0.1
 'use strict';
 
+
+//var jitgrunt = require('jit-grunt');
+
 // # Globbing
 // for performance reasons we're only matching one level down:
 // 'test/spec/{,*/}*.js'
